@@ -31,3 +31,11 @@ Documentação
 
 Os requisitos do sistema estão disponíveis no arquivo "docs/requisitos.md". sistema-cuidados-animais-escola
 Sistema para organizar os cuidados dos animaia que vivem na escola.
+
+
+## Guia de Execução e Instalação
+1. Aceda à pasta `/src` ou `/produto` deste repositório para consultar os ficheiros do projeto[span_2](start_span)[span_2](end_span).
+2. Siga as orientações descritas para visualizar o sistema de cuidados dos animais da escola[span_3](start_span)[span_3](end_span).
+
+## Resultados Finais
+O projeto foi totalmente planeado, estruturado e executado com sucesso, cumprindo todas as tarefas de registo, acompanhamento e validação propostas[span_4](start_span)[span_4](end_span).
